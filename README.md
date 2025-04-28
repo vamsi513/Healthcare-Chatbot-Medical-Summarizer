@@ -30,3 +30,15 @@ OPENAI_API_KEY=your_openai_key_here
 
 3.Start the app:
 streamlit run src/chatbot_app.py
+---
+
+## 📸 Demo Screenshots
+
+### 🖼️ Chatbot Home Page
+![Chatbot Home](demo1.png)
+
+### 🖼️ Example Question 1
+![Chatbot Example 1](demo2.png)
+
+### 🖼️ Example Question 1 answer
+![Chatbot Example 2](demo3.png)
