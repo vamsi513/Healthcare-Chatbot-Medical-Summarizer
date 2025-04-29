@@ -36,15 +36,8 @@ streamlit run src/chatbot_app.py
 
 ## 📸 Demo Screenshots
 
-### 🖼️ Chatbot Home Page
-
 ![Chatbot Home](Demo1.png)
-
-### 🖼️ Example Question 1
-
 ![Chatbot Example 1](Demo2.png)
-
-### 🖼️ Example Question 1 Answer
-
 ![Chatbot Example 2](Demo3.png)
+
 
